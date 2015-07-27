@@ -1,0 +1,16 @@
+[Wed May 06 18:58:39.068881 2015] [access_compat:error] [pid 24827] [client 127.0.0.1:59285] AH01797: client denied by server configuration: /var/www/example2.com/public_html/server_status
+[Wed May 06 19:00:03.457374 2015] [access_compat:error] [pid 24828] [client 127.0.0.1:59286] AH01797: client denied by server configuration: /var/www/example2.com/public_html/server_status
+[Wed May 06 21:42:49.912908 2015] [cgi:error] [pid 28822] [client 127.0.0.1:59628] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 21:49:57.658233 2015] [cgi:error] [pid 29161] [client 127.0.0.1:59639] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 22:01:47.568044 2015] [cgi:error] [pid 29170] [client 127.0.0.1:59643] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 22:07:18.958119 2015] [cgi:error] [pid 29163] [client 127.0.0.1:59648] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 22:07:21.990536 2015] [cgi:error] [pid 29163] [client 127.0.0.1:59648] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 22:07:22.804194 2015] [cgi:error] [pid 29163] [client 127.0.0.1:59648] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 22:08:06.433207 2015] [cgi:error] [pid 29792] [client 127.0.0.1:59655] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 22:08:08.364744 2015] [cgi:error] [pid 29792] [client 127.0.0.1:59655] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 22:08:09.059820 2015] [cgi:error] [pid 29792] [client 127.0.0.1:59655] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 22:08:10.764921 2015] [cgi:error] [pid 29792] [client 127.0.0.1:59655] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 22:11:31.006242 2015] [cgi:error] [pid 29959] [client 127.0.0.1:59662] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 22:11:32.400449 2015] [cgi:error] [pid 29959] [client 127.0.0.1:59662] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 22:11:34.365446 2015] [cgi:error] [pid 29959] [client 127.0.0.1:59662] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
+[Wed May 06 22:12:21.055155 2015] [cgi:error] [pid 29960] [client 127.0.0.1:59663] Options ExecCGI is off in this directory: /var/www/example2.com/public_html/status.pl
