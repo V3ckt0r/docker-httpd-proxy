@@ -5,7 +5,7 @@ LABEL Vendor="CentOS"
 RUN yum -y update && yum clean all
 RUN yum -y install httpd && yum clean all
 
-EXPOSE 80
+EXPOSE 80 81
 
 #Simple startup script to aviod some issues observed with container restart
 ADD run-httpd.sh /run-httpd.sh
